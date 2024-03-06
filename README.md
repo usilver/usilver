@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kumar Kundan and I'm from  Bihar.</h2>
+<h2 align="left">Hi! 👋 My name is Kumar Kundan and I'm from  Bihar.</h2>
 
 ###
 
